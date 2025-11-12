@@ -27,5 +27,8 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1"
   },
+  {
+  "engines": { "node": "18.x" }
+  },
   "iconLibrary": "lucide"
 }
